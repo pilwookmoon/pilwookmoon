@@ -67,8 +67,8 @@
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevormoon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="42%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilwookmoon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="42%"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=trevormoon&theme=tokyonight&show_icons=true" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pilwookmoon&theme=tokyonight&show_icons=true" width="46%" />
 </a>
