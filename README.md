@@ -1,20 +1,37 @@
-<!-- Header --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4338ca&height=220&section=header&text=Pilwook%20Moon&fontSize=56&fontColor=e0e7ff&fontAlignY=38&desc=Digital%20Consultant%20%C2%B7%20ML%2FDL%20Explorer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" /> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=818CF8&center=true&vCenter=true&width=520&lines=Digital+Consultant;Exploring+ML+%2F+DL;Learning+by+building+small+projects" /> </div> <br>
-👋 About Me
-💼 현재 디지털 컨설턴트로 일하고 있어요
-🤖 개인적으로 관심 있는 ML/DL 분야를 공부하고 있어요
-🧪 공부한 내용과 미니 프로젝트를 이곳에 기록하고 있어요
-🌱 요즘 배우는 것: <!-- 예: LLM 파인튜닝, MLOps -->
-<br>
-🛠 Tech Stack
-<table> <tr> <td align="center" width="140"><b>Language</b></td> <td> <img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>Database</b></td> <td> <img src="https://img.shields.io/badge/MySQL-1e293b?style=flat-square&logo=mysql&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>ML / Viz</b></td> <td> <img src="https://img.shields.io/badge/TensorFlow-1e293b?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-1e293b?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/W&B-1e293b?style=flat-square&logo=weightsandbiases&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>Cloud</b></td> <td> <img src="https://img.shields.io/badge/AWS-1e293b?style=flat-square&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Cloud-1e293b?style=flat-square&logo=googlecloud&logoColor=white" /> </td> </tr> <tr> <td align="center"><b>Collaboration</b></td> <td> <img src="https://img.shields.io/badge/GitHub-1e293b?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-1e293b?style=flat-square&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-1e293b?style=flat-square&logo=slack&logoColor=white" /> </td> </tr> </table> <details> <summary>&nbsp;그 외 사용해 본 기술</summary> <br> <img src="https://img.shields.io/badge/C-334155?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-334155?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-334155?style=flat-square&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-334155?style=flat-square&logo=arduino&logoColor=white" /> </details> <br>
-📌 Featured Projects
-<!-- 레포가 정해지면 아래 표를 채워주세요 -->
-Project	Description	Stack
-프로젝트 이름	한 줄 설명	Python · TensorFlow
-프로젝트 이름	한 줄 설명	Python · W&B
-프로젝트 이름	한 줄 설명	Python · FastAPI
-<br>
-📊 GitHub Stats
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pilwookmoon&show_icons=true&hide_border=true&bg_color=0f172a&title_color=a5b4fc&text_color=cbd5e1&icon_color=818cf8" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pilwookmoon&layout=compact&langs_count=6&hide_border=true&bg_color=0f172a&title_color=a5b4fc&text_color=cbd5e1" height="165" /> </div> <br>
-📫 Contact
-<a href="https://scandalous-freedom-a2d.notion.site/Data-Engineer-db8e524ad9144bbcbcd8010d5b471873?pvs=4"> <img src="https://img.shields.io/badge/Notion-Portfolio-4338ca?style=flat-square&logo=notion&logoColor=white" /> </a> <!-- 필요하면 이메일 / LinkedIn 배지를 추가하세요 --> <!-- <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-4338ca?style=flat-square&logo=gmail&logoColor=white" /> </a> --> <!-- Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,100:0f172a&height=100&section=footer" width="100%" />
+
+
+디지털 컨설턴트로 일하며,
+
+개인적인 관심으로
+
+머신러닝과 딥러닝을 공부하고 있습니다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+그동안의 작업과 자세한 소개는 노션에,
+
+공부하며 남긴 노트와 실습 코드는
+
+이곳 저장소에 정리해 두었습니다.
+
+
+
+
+
+
+
+ 
+
+
+
+
